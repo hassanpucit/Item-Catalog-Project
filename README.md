@@ -13,7 +13,7 @@ Project 4 of Udacity FSND
 In order to run this program you will need the following:
 
 1- Install Vagrant and VirtualBox
-2- Download the Vagrantfile from the Udacity Repo
+2- Download the Vagrantfile from the Udacity Repository
 3- Run `vagrant up` to run the virtual machine, then `vagrant ssh` to login to the VM
 4- Run application with `python application.py` from within its directory
 5- go to `http://localhost:8081` to access the application
